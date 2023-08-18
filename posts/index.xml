@@ -5,8 +5,18 @@
         <description>Recent content in Posts on t4n99</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 18 Aug 2023 15:32:16 +0700</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 17:44:36 +0700</lastBuildDate>
         <atom:link href="https://t4n99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Third</title>
+            <link>https://t4n99.github.io/posts/third/</link>
+            <pubDate>Fri, 18 Aug 2023 17:44:36 +0700</pubDate>
+            
+            <guid>https://t4n99.github.io/posts/third/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>Second</title>
