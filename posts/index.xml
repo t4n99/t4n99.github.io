@@ -5,37 +5,21 @@
         <description>Recent content in Posts on t4n99</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 18 Aug 2023 17:44:36 +0700</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 18:01:19 +0700</lastBuildDate>
         <atom:link href="https://t4n99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Third</title>
-            <link>https://t4n99.github.io/posts/third/</link>
-            <pubDate>Fri, 18 Aug 2023 17:44:36 +0700</pubDate>
-            
-            <guid>https://t4n99.github.io/posts/third/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>Second</title>
-            <link>https://t4n99.github.io/posts/second/</link>
-            <pubDate>Fri, 18 Aug 2023 15:32:16 +0700</pubDate>
-            
-            <guid>https://t4n99.github.io/posts/second/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>First</title>
+            <title>Lời mở đầu</title>
             <link>https://t4n99.github.io/posts/first/</link>
-            <pubDate>Fri, 18 Aug 2023 15:18:55 +0700</pubDate>
+            <pubDate>Fri, 18 Aug 2023 18:01:19 +0700</pubDate>
             
             <guid>https://t4n99.github.io/posts/first/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>Vào một ngày bình thường như bao ngày khác trong chuỗi ngày tháng mong lung vô định, buồn chán không biết làm gì thì mình đã quyết định lập blog này để giết thời gian 🫤. Cơ bản thì mình cũng muốn lập một cái blog viết linh tinh lâu rồi nhưng vì lười cũng như cảm thấy chả biết viết gì nên cũng chả buồn viết.
+Nội dung trong này sẽ chủ yếu xoay quanh công việc của mình, những vấn đề, những điều mà mình cảm thấy thú vị nên muốn note lại chúng để sau này có thể đọc lại.</description>
+            <content type="html"><![CDATA[<p>Vào một ngày bình thường như bao ngày khác trong chuỗi ngày tháng mong lung vô định, buồn chán không biết làm gì thì mình đã quyết định lập blog này để giết thời gian 🫤. Cơ bản thì mình cũng muốn lập một cái blog viết linh tinh lâu rồi nhưng vì lười cũng như cảm thấy chả biết viết gì nên cũng chả buồn viết.</p>
+<p>Nội dung trong này sẽ chủ yếu xoay quanh công việc của mình, những vấn đề, những điều mà mình cảm thấy thú vị nên muốn note lại chúng để sau này có thể đọc lại. Mọi thứ đều là những kiến thức mà mình tự mày mò, tìm hiểu và cũng như mình đã nói thì mình đơn giản muốn note lại chúng nên đôi khi có thể có sai sót trong bài viết. Nếu mọi người thấy chỗ nào sai hoặc chưa hợp lý thì xin hãy báo lại mình để mình sửa với nhé ❤️</p>
+<p>Cảm ơn vì đã ghé vào đây</p>
+]]></content>
         </item>
         
     </channel>
