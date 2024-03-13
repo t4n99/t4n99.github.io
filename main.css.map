@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/thanhnh56/Documents/Blog/Github/blog/t4n99blog",
+	"sourceRoot": "D:/THANHNH56/Blog/Github/blog/t4n99blog",
 	"sources": [
 		"themes/hello-4s3ti/assets/scss/main.scss",
 		"themes/hello-4s3ti/assets/scss/_normalize.scss",

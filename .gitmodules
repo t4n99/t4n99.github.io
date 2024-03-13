@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/t4n99/t4n99.github.io
+	branch = main
